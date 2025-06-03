@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoamenEl-Sayed95/Node-Farm.git"
+  },
+  "author": "Moamen Abouhaty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoamenEl-Sayed95/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/MoamenEl-Sayed95/Node-Farm#readme"
+}
